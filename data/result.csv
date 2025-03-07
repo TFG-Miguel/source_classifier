@@ -1,0 +1,111 @@
+Page,Valid,Reason/Notes,Review,Url
+page01,Yes,,No,https://en.wikipedia.org/wiki/Code_smell
+page01,Yes,,No,https://roshancloudarchitect.me/identifying-and-eliminating-code-smells-in-angular-micro-frontends-advanced-techniques-for-6f07a781f93d#:~:text=A%20code%20smell%20is%20an,components%2C%20and%20inefficient%20state%20management.
+page01,Yes,,No,https://medium.com/@robert.maiersilldorff/code-smells-in-angular-deep-dive-part-i-d63dd5f5215e
+page01,No,FORBIDDEN DOMAIN Foro o chat www.reddit.com,No,https://www.reddit.com/r/Angular2/comments/197xsbw/what_the_common_bad_practices_you_see_in_others/
+page01,Yes,,No,https://zydesoft.com/must-know-clean-code-principles-in-angular/
+page01,Yes,,No,https://maurodec.com/blog/side-effects/
+page01,Yes,,No,https://dev.to/vixero/common-mistakes-that-backend-programmers-make-in-angular-434d
+page01,Yes,,No,https://dev.to/misterion96/angular-is-not-for-everyone-and-probably-not-for-you-404n
+page01,Yes,,No,https://softteco.com/blog/whats-code-smell
+page01,Yes,,No,https://medium.com/@iamprovidence/component-communication-in-angular-for-senior-devs-4e3c9f0f2c59
+page01,No,FORBIDDEN DOMAIN Red Social www.linkedin.com,No,https://www.linkedin.com/advice/0/what-most-effective-ways-identify-code-smells-qiahf
+page02,No,FORBIDDEN DOMAIN Foro o chat stackoverflow.com,No,https://stackoverflow.com/questions/77629638/is-using-getvalue-on-behaviorsubject-bad-practice
+page02,Yes,,No,https://levelup.gitconnected.com/angular-component-design-reactive-approach-7113aebc1dd7
+page02,No,FORBIDDEN DOMAIN Red Social www.youtube.com,No,https://www.youtube.com/watch?v=Mck1GTgYk98
+page02,No,FORBIDDEN DOMAIN Red Social www.linkedin.com,No,https://www.linkedin.com/pulse/3-code-smells-might-destroying-your-rubens-gouveia-s3izc
+page02,Yes,,No,https://developapa.com/signals/
+page02,Yes,,No,https://rules.sonarsource.com/typescript/tag/cwe/rspec-6268/
+page02,No,FORBIDDEN DOMAIN Foro o chat stackoverflow.com,No,https://stackoverflow.com/questions/76912541/how-to-solve-something-is-already-declared-in-the-upper-scope-code-smells
+page02,Yes,,No,https://github.com/angular/angular/issues/59082
+page02,Yes,,No,https://itnext.io/cracking-the-code-smells-a1260093e9e7
+page02,Yes,,No,https://github.com/angular/angular/issues/54438
+page03,Yes,,No,https://syntha.ai/code-generators/angular
+page03,Yes,,No,https://www.sciencedirect.com/science/article/abs/pii/S0164121224001468
+page03,Yes,,No,https://rules.sonarsource.com/javascript/tag/brain-overload/rspec-107/
+page03,No,FORBIDDEN DOMAIN Red Social www.instagram.com,No,https://www.instagram.com/angelo.cammaroto/p/CtJznREO10N/
+page03,Yes,,No,https://www.jetbrains.com/help/inspectopedia/PhpFeatureEnvyLocalInspection.html
+page03,Yes,,No,https://www.csharp.com/topics/init
+page03,Yes,,No,https://davidea.st/
+page03,Yes,,No,https://www.telerik.com/blogs/clean-code-practical-introduction-aspnet-core
+page03,Yes,,No,https://davidboothe.com/2024/08/getting-started-with-angular-signals-a-comprehensive-guide/
+page04,Yes,,No,https://www.cypress.io/blog/cypress-migrator-protractor
+page04,Yes,,No,https://www.researchgate.net/figure/Classification-of-antipattern-detection-methods_fig6_380601207
+page04,Yes,,No,https://bluelight.co/blog/how-to-maintain-code-quality
+page04,Yes,,No,https://softteco.com/code-review
+page04,Yes,,No,https://terenbro.com/java-software-development
+page04,Yes,,No,https://radixweb.com/tech-studies/angularjs-integration-in-healthcare-management-system
+page04,Yes,,No,https://stackshare.io/google/google
+page04,No,FORBIDDEN DOMAIN Red Social twitter.com,No,https://twitter.com/matwming
+page04,Yes,,No,https://www.jetbrains.com/help/inspectopedia/PhpInconsistentReturnPointsInspection.html
+page04,Yes,,No,https://syntha.ai/optimizers/typescript
+page05,Yes,,No,https://waverleysoftware.com/blog/code-rewriting-when-and-why/
+page05,Yes,,No,https://nstudio.io/blog/nativescript-tips-tricks
+page05,Yes,,No,https://www.jhipster.tech/documentation-archive/v8.5.0/jhipster-lite/
+page05,Yes,,No,https://www.thecodingcouple.com/tag/javascript/
+page05,Yes,,No,https://news.ycombinator.com/item?id=36637221
+page05,Yes,,No,https://www.packtpub.com/en-cy/newsletters/programmingpro?srsltid=AfmBOoq8uNPKCkhmd1tBW0w9nXE611-oRvj6hnnaQftfuQrNfrDKETtU
+page05,No,FORBIDDEN DOMAIN Red Social www.tiktok.com,No,https://www.tiktok.com/@.codegen/video/7231944156099185966
+page05,Yes,,No,https://javascript.plainenglish.io/understand-cohesion-and-coupling-design-principles-to-create-better-react-apps-f2bdb84648ea
+page05,Yes,,No,https://php-dictionary.readthedocs.io/en/latest/dictionary/curly-bracket.ini.html
+page05,Yes,,No,https://aquibazmain.github.io/documents/Md.%20Aquib%20Azmain%20-%2029-07-2024.pdf
+page06,Yes,,No,https://www.thisdot.co/blog/how-to-truncate-strings-easily-with-css
+page06,Yes,,No,https://www.ivonet.nl/tags/jakarta/
+page06,Yes,,No,https://www.chrisphilbin.net/spring-boot-using-autowired-vs-constructor-injection/
+page06,Yes,,No,https://forem.com/t/vue
+page06,No,FORBIDDEN DOMAIN Red Social www.youtube.com,No,https://www.youtube.com/watch?v=pNpGEiR4xww
+page06,Yes,,No,https://nodecompose.com/tech-glossary
+page06,Yes,,No,https://www.bogeywebdesign.com/2024/09/
+page06,Yes,,No,https://blog.rufer.be/2023/10/06/howto-integrate-sonarcloud-analysis-in-an-azure-devops-yaml-pipeline/
+page06,Yes,,No,https://shpota.com/
+page06,Yes,,No,https://www.bytestechnolab.com/au/python-developers/
+page07,Yes,,No,https://www.thecodingcouple.com/category/programming-languages/javascript/
+page07,No,FORBIDDEN DOMAIN Red Social www.facebook.com,No,https://www.facebook.com/groups/developerkaki/posts/2341906442821922/
+page07,No,FORBIDDEN DOMAIN Foro o chat www.quora.com,No,https://www.quora.com/What-are-the-most-common-challenges-faced-by-developers-when-working-with-React-js-and-how-can-they-be-overcome
+page07,Yes,,No,https://www.justacademy.co/blog-detail/advantages-and-disadvantages-of-inheritance-in-java
+page07,No,FORBIDDEN DOMAIN Red Social www.instagram.com,No,https://www.instagram.com/thedevlife/reel/C2oVizSLWuc/
+page07,Yes,,No,https://www.joehxblog.com/resume/
+page07,Yes,,No,https://www.concettolabs.com/blog/top-10-test-automation-challenges/
+page07,Yes,,No,https://codehindi.com/information-technology/information-technology.html
+page07,Yes,,No,https://oceanobe.com/news/the-importance-of-refactoring/1075
+page07,Yes,,No,https://www.pluralsight.com/resources/blog/software-development/python-loops-iteration-explained
+page08,Yes,,No,https://docs.cloudbees.com/docs/cloudbees-platform/latest/organizations-components/components-summary
+page08,Yes,,No,https://www.ivonet.nl/2023/06/23/Joy-Of-Coding-2023/
+page08,No,UNKNOWN MIME TYPE,No,https://supportcenter.devexpress.com/ticket/details/t1211525/re-how-can-i-change-the-color-from-a-selected-text
+page08,Yes,,No,https://iulianmarcu.me/blog/upskill-react-codebase-quality
+page08,Yes,,No,https://www.scrums.com/top-56-software-development-tools-in-the-uk
+page08,Yes,,No,https://www.researchgate.net/figure/Current-Architecture-Design-of-Ride-Sharing_fig2_360827817
+page08,No,FORBIDDEN DOMAIN Red Social www.youtube.com,No,https://www.youtube.com/watch?v=T1OBSIRqlCU
+page08,Yes,,No,https://www.dsebastien.net/all-articles/
+page08,Yes,,No,https://news.ycombinator.com/item?id=42245442
+page08,Yes,,No,https://www.javacodegeeks.com/2024/02/java-code-smells-a-clean-code-quest.html
+page09,Yes,,No,https://dl.acm.org/doi/10.1145/3607186
+page09,Yes,,No,https://radixweb.com/blog/most-essential-dot-net-development-tools
+page09,Yes,,No,https://frontendmasters.com/blog/fine-grained-reactivity-in-svelte-5/
+page09,Yes,,No,https://intellisoft.io/15-famous-sites-built-with-django-that-you-probably-know/
+page09,No,FORBIDDEN DOMAIN Red Social www.facebook.com,No,https://www.facebook.com/thepracticaldev/?locale=tr_TR
+page09,Yes,,No,https://ijsra.net/sites/default/files/IJSRA-2023-0815.pdf
+page09,Yes,,No,https://www.bytestechnolab.com/hire/adobe-commerce-developers/
+page09,No,UNKNOWN MIME TYPE,No,https://supportcenter.devexpress.com/ticket/details/t1185225/best-way-to-bind-collection-to-a-combobox-edit
+page09,Yes,,No,https://www.g2.com/products/kiuwan-code-security-insights/reviews
+page09,Yes,,No,https://codeninjaconsulting.com/blog/dot-net-development-tools
+page10,Yes,,No,https://www.showwcase.com/article/45659/why-polymarket-is-a-game-changer-and-how-you-can-create-your-own
+page10,Yes,,No,https://dokumen.pub/mastering-c-programming-9781786461629.html
+page10,Yes,,No,https://buttercms.com/blog/5-things-your-team-should-do-to-make-pull-requests-less-painful/
+page10,No,FORBIDDEN DOMAIN Foro o chat www.quora.com,No,https://www.quora.com/I-was-told-that-unit-testing-is-mandatory-and-smoke-testing-is-optional-and-Im-not-convinced-I-think-that-both-tests-are-of-equal-importance-or-smoke-test-is-more-important-Can-you-tell-me-your-idea
+page10,Yes,,No,https://airhacks.fm/
+page10,Yes,,No,https://www.cypress.io/events
+page10,Yes,,No,https://www.javaskool.com/error-spawn-npx-enoentat-childprocess-_handle-onexit-nodeinternal-child_process28519/
+page10,Yes,,No,https://www.packtpub.com/en-pl/product/architecting-aspnet-core-applications-9781805123385?type=print
+page10,No,FORBIDDEN DOMAIN Red Social www.instagram.com,No,https://www.instagram.com/essentialdeveloper/?locale=ru&hl=am-et
+page10,No,FORBIDDEN DOMAIN Red Social twitter.com,No,https://twitter.com/grathium_i/with_replies
+page11,No,FORBIDDEN DOMAIN Red Social www.tiktok.com,No,https://www.tiktok.com/@codewkarim/video/7446870918707629317
+page11,No,FORBIDDEN DOMAIN Red Social www.instagram.com,No,https://www.instagram.com/bugnito.tech/reel/C0liV84iGji/
+page11,Yes,,No,https://thecodeblogger.com/2023/09/21/how-to-setup-sonarqube-instance-locally/
+page11,No,FORBIDDEN DOMAIN Red Social www.youtube.com,No,https://www.youtube.com/watch?v=Z3h6T8-iQxk
+page11,No,FORBIDDEN DOMAIN Red Social www.tiktok.com,No,https://www.tiktok.com/@thedevlife/video/7239538216703888683
+page11,No,FORBIDDEN DOMAIN Red Social www.youtube.com,No,https://www.youtube.com/watch?v=1EmsXC8371g
+page11,No,FORBIDDEN DOMAIN Red Social www.tiktok.com,No,https://www.tiktok.com/@thedevlife/video/7391166801784196395
+page11,No,FORBIDDEN DOMAIN Red Social www.tiktok.com,No,https://www.tiktok.com/@techelshad/video/7362134235475463457
+page11,Yes,,No,https://devpedia.dev/
+page11,No,UNKNOWN MIME TYPE,No,https://builderhub.ai/

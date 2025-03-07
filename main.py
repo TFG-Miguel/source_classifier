@@ -3,7 +3,7 @@ from utils import write_csv, load_data
 from verifier import Verifier
 
 source_file = "data/source.json"
-destination_file = 'data/final_result.csv'
+destination_file = 'data/result.csv'
 rules_file = "config/rules.json"
 headers = ["Page", "Valid", "Reason/Notes", "Review", "Url"]
 
