@@ -1,8 +1,8 @@
-Reason/Notes,Url
-,https://roshancloudarchitect.me/identifying-and-eliminating-code-smells-in-angular-micro-frontends-advanced-techniques-for-6f07a781f93d
-,https://medium.com/@robert.maiersilldorff/code-smells-in-angular-deep-dive-part-i-d63dd5f5215e
-Son principios pero pueden considerarse smell,https://zydesoft.com/must-know-clean-code-principles-in-angular/
-Cosas generales creo que se puede sacar 1 sobre RxJS (puede considerarse propio de js),https://dev.to/vixero/common-mistakes-that-backend-programmers-make-in-angular-434d
-Múltiples menciones de 'angularjs' o 'angular js' históricas,https://developapa.com/signals/
-Smell: Effect - guide for signal,https://davidboothe.com/2024/08/getting-started-with-angular-signals-a-comprehensive-guide/
-Code smell RxJS observables,https://stackshare.io/google/google - https://blog.eyas.sh/2018/12/use-asyncpipe-when-possible/
+Url,Reason/Notes
+https://roshancloudarchitect.me/identifying-and-eliminating-code-smells-in-angular-micro-frontends-advanced-techniques-for-6f07a781f93d#:~:text=A%20code%20smell%20is%20an;components%2C%20and%20inefficient%20state%20management.,
+https://medium.com/@robert.maiersilldorff/code-smells-in-angular-deep-dive-part-i-d63dd5f5215e,
+https://zydesoft.com/must-know-clean-code-principles-in-angular/,Son principios pero pueden considerarse smell
+https://dev.to/vixero/common-mistakes-that-backend-programmers-make-in-angular-434d,Cosas generales creo que se puede sacar 1 sobre RxJS (puede considerarse propio de js)
+https://developapa.com/signals/,Múltiples menciones de 'angularjs' o 'angular js' históricas
+https://davidboothe.com/2024/08/getting-started-with-angular-signals-a-comprehensive-guide/,Smell: Effect - guide for signal
+https://stackshare.io/google/google,Code smell RxJS observables
