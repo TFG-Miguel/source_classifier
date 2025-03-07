@@ -34,7 +34,7 @@ python main.py
 ```
 
 ## Configuration
-### Rules File (`config/rules.json`)
+### Rules File ([`config/rules.json`](./config/rules.json))
 The verification logic relies on a JSON rules file with the following structure:
 ```json
 {
@@ -49,7 +49,7 @@ The verification logic relies on a JSON rules file with the following structure:
 }
 ```
 
-### Source Data (`data/source.json`)
+### Source Data ([`data/source.json`](./data/source.json))
 The URLs to verify are stored in a JSON file in key-value pairs:
 ```json
 {
@@ -59,13 +59,9 @@ The URLs to verify are stored in a JSON file in key-value pairs:
 ```
 
 ## Output
-Results are saved in `data/final_result.csv` with the format:
+Results are saved in [`data/result.csv`](./data/result.csv) with the format:
 ```
 Page,Valid,Reason/Notes,Review,Url
 Group1,No,FORBIDDEN DOMAIN: example.com,No,https://example.com
 Group1,Yes,,No,https://test.com
 ```
-
-## License
-This project is open-source and free to use.
-
