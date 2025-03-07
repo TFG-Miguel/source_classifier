@@ -1,0 +1,111 @@
+Page,Valid,Reason/Notes,Reviewed,Url
+page01,No,Coincidencia fortuita,Yes,https://en.wikipedia.org/wiki/Code_smell
+page01,Yes,,Yes,https://roshancloudarchitect.me/identifying-and-eliminating-code-smells-in-angular-micro-frontends-advanced-techniques-for-6f07a781f93d#:~:text=A%20code%20smell%20is%20an;components%2C%20and%20inefficient%20state%20management.
+page01,Yes,,Yes,https://medium.com/@robert.maiersilldorff/code-smells-in-angular-deep-dive-part-i-d63dd5f5215e
+page01,No,FORBIDDEN DOMAIN Foro o chat www.reddit.com,Yes,https://www.reddit.com/r/Angular2/comments/197xsbw/what_the_common_bad_practices_you_see_in_others/
+page01,Yes,Son principios pero pueden considerarse smell,Yes,https://zydesoft.com/must-know-clean-code-principles-in-angular/
+page01,Yes,Parece un code smell concreto,Yes,https://maurodec.com/blog/side-effects/
+page01,Yes,Cosas generales creo que se puede sacar 1 sobre RxJS (puede considerarse propio de js),Yes,https://dev.to/vixero/common-mistakes-that-backend-programmers-make-in-angular-434d
+page01,No,Múltiples menciones de 'angularjs' o 'angular js'. Descartado por no ser relevante,Yes,https://dev.to/misterion96/angular-is-not-for-everyone-and-probably-not-for-you-404n
+page01,No,Búsqueda incompleta: angular,Yes,https://softteco.com/blog/whats-code-smell
+page01,No,Guía para la comunicación de componentes,Yes,https://medium.com/@iamprovidence/component-communication-in-angular-for-senior-devs-4e3c9f0f2c59
+page01,No,FORBIDDEN DOMAIN Red Social www.linkedin.com,Yes,https://www.linkedin.com/advice/0/what-most-effective-ways-identify-code-smells-qiahf
+page02,No,FORBIDDEN DOMAIN Foro o chat stackoverflow.com,Yes,https://stackoverflow.com/questions/77629638/is-using-getvalue-on-behaviorsubject-bad-practice
+page02,No,Publicación para promocionar sus videos de diseño de componentes,Yes,https://levelup.gitconnected.com/angular-component-design-reactive-approach-7113aebc1dd7
+page02,No,FORBIDDEN DOMAIN Red Social www.youtube.com - generales,Yes,https://www.youtube.com/watch?v=Mck1GTgYk98
+page02,No,FORBIDDEN DOMAIN Red Social www.linkedin.com - generales,Yes,https://www.linkedin.com/pulse/3-code-smells-might-destroying-your-rubens-gouveia-s3izc
+page02,Yes,Múltiples menciones de 'angularjs' o 'angular js' históricas,Yes,https://developapa.com/signals/
+page02,Yes,Solo un code smell categorizado como ts,Yes,https://rules.sonarsource.com/typescript/tag/cwe/rspec-6268/
+page02,No,FORBIDDEN DOMAIN Foro o chat stackoverflow.com - sonar,Yes,https://stackoverflow.com/questions/76912541/how-to-solve-something-is-already-declared-in-the-upper-scope-code-smells
+page02,Yes,Revisar parece un code smell comentado por eslint,Yes,https://github.com/angular/angular/issues/59082
+page02,No,Generales,Yes,https://itnext.io/cracking-the-code-smells-a1260093e9e7
+page02,No,General,Yes,https://github.com/angular/angular/issues/54438
+page03,No,Ia tool,Yes,https://syntha.ai/code-generators/angular
+page03,No,Búsqueda incompleta: angular,Yes,https://www.sciencedirect.com/science/article/abs/pii/S0164121224001468
+page03,No,General,Yes,https://rules.sonarsource.com/javascript/tag/brain-overload/rspec-107/
+page03,No,FORBIDDEN DOMAIN Red Social www.instagram.com,Yes,https://www.instagram.com/angelo.cammaroto/p/CtJznREO10N/
+page03,Yes,Revisar,Yes,https://www.jetbrains.com/help/inspectopedia/PhpFeatureEnvyLocalInspection.html
+page03,No,Múltiples menciones de 'angularjs' o 'angular js' - Nada relevante,Yes,https://www.csharp.com/topics/init
+page03,Yes,,Yes,https://davidea.st/
+page03,No,Búsqueda incompleta: angular,Yes,https://www.telerik.com/blogs/clean-code-practical-introduction-aspnet-core
+page03,Yes,Smell: Effect - guide for signal,Yes,https://davidboothe.com/2024/08/getting-started-with-angular-signals-a-comprehensive-guide/
+page04,No,Búsqueda incompleta: ambas,Yes,https://www.cypress.io/blog/cypress-migrator-protractor
+page04,No,Búsqueda incompleta: ambas,Yes,https://www.researchgate.net/figure/Classification-of-antipattern-detection-methods_fig6_380601207
+page04,No,Búsqueda incompleta: angular,Yes,https://bluelight.co/blog/how-to-maintain-code-quality
+page04,No,Búsqueda incompleta: angular,Yes,https://softteco.com/code-review
+page04,No,Búsqueda incompleta: ambas,Yes,https://terenbro.com/java-software-development
+page04,No,Búsqueda incompleta: code smell,Yes,https://radixweb.com/tech-studies/angularjs-integration-in-healthcare-management-system
+page04,Yes,Code smell RxJS observables,Yes,https://stackshare.io/google/google
+page04,No,FORBIDDEN DOMAIN Red Social twitter.com,Yes,https://twitter.com/matwming
+page04,No,PHP,Yes,https://www.jetbrains.com/help/inspectopedia/PhpInconsistentReturnPointsInspection.html
+page04,No,Optimizado por Ia,Yes,https://syntha.ai/optimizers/typescript
+page05,No,Búsqueda incompleta: angular,Yes,https://waverleysoftware.com/blog/code-rewriting-when-and-why/
+page05,No,Búsqueda incompleta: code smell,Yes,https://nstudio.io/blog/nativescript-tips-tricks
+page05,No,Búsqueda incompleta: ambas,Yes,https://www.jhipster.tech/documentation-archive/v8.5.0/jhipster-lite/
+page05,No,Coincidencia fortuita,Yes,https://www.thecodingcouple.com/tag/javascript/
+page05,No,Foro,Yes,https://news.ycombinator.com/item?id=36637221
+page05,Yes,,Yes,https://www.packtpub.com/en-cy/newsletters/programmingpro?srsltid=AfmBOoq8uNPKCkhmd1tBW0w9nXE611-oRvj6hnnaQftfuQrNfrDKETtU
+page05,No,FORBIDDEN DOMAIN Red Social www.tiktok.com,Yes,https://www.tiktok.com/@.codegen/video/7231944156099185966
+page05,No,Búsqueda incompleta: angular,Yes,https://javascript.plainenglish.io/understand-cohesion-and-coupling-design-principles-to-create-better-react-apps-f2bdb84648ea
+page05,No,Búsqueda incompleta: ambas,Yes,https://php-dictionary.readthedocs.io/en/latest/dictionary/curly-bracket.ini.html
+page05,No,Coincidencia fortuita,Yes,https://aquibazmain.github.io/documents/Md.%20Aquib%20Azmain%20-%2029-07-2024.pdf
+page06,No,Coincidencia fortuita,Yes,https://www.thisdot.co/blog/how-to-truncate-strings-easily-with-css
+page06,No,Coincidencia fortuita,Yes,https://www.ivonet.nl/tags/jakarta/
+page06,No,Coincidencia fortuita,Yes,https://www.chrisphilbin.net/spring-boot-using-autowired-vs-constructor-injection/
+page06,No,Coincidencia fortuita,Yes,https://forem.com/t/vue
+page06,No,FORBIDDEN DOMAIN Red Social www.youtube.com,Yes,https://www.youtube.com/watch?v=pNpGEiR4xww
+page06,No,Coincidencia fortuita,Yes,https://nodecompose.com/tech-glossary
+page06,No,Búsqueda incompleta: ambas,Yes,https://www.bogeywebdesign.com/2024/09/
+page06,No,Búsqueda incompleta: ambas,Yes,https://blog.rufer.be/2023/10/06/howto-integrate-sonarcloud-analysis-in-an-azure-devops-yaml-pipeline/
+page06,No,Coincidencia fortuita,Yes,https://shpota.com/
+page06,No,Búsqueda incompleta: ambas,Yes,https://www.bytestechnolab.com/au/python-developers/
+page07,No,Coincidencia fortuita,Yes,https://www.thecodingcouple.com/category/programming-languages/javascript/
+page07,No,FORBIDDEN DOMAIN Red Social www.facebook.com,Yes,https://www.facebook.com/groups/developerkaki/posts/2341906442821922/
+page07,No,FORBIDDEN DOMAIN Foro o chat www.quora.com,Yes,https://www.quora.com/What-are-the-most-common-challenges-faced-by-developers-when-working-with-React-js-and-how-can-they-be-overcome
+page07,No,Coincidencia fortuita,Yes,https://www.justacademy.co/blog-detail/advantages-and-disadvantages-of-inheritance-in-java
+page07,No,FORBIDDEN DOMAIN Red Social www.instagram.com,Yes,https://www.instagram.com/thedevlife/reel/C2oVizSLWuc/
+page07,No,Múltiples menciones de 'angularjs' o 'angular js',Yes,https://www.joehxblog.com/resume/
+page07,No,Coincidencia fortuita,Yes,https://www.concettolabs.com/blog/top-10-test-automation-challenges/
+page07,No,Coincidencia fortuita,Yes,https://codehindi.com/information-technology/information-technology.html
+page07,No,Búsqueda incompleta: angular,Yes,https://oceanobe.com/news/the-importance-of-refactoring/1075
+page07,No,Búsqueda incompleta: angular,Yes,https://www.pluralsight.com/resources/blog/software-development/python-loops-iteration-explained
+page08,No,Coincidencia fortuita,Yes,https://docs.cloudbees.com/docs/cloudbees-platform/latest/organizations-components/components-summary
+page08,No,Coincidencia fortuita,Yes,https://www.ivonet.nl/2023/06/23/Joy-Of-Coding-2023/
+page08,No,Tipo no permitido: foro,Yes,https://supportcenter.devexpress.com/ticket/details/t1211525/re-how-can-i-change-the-color-from-a-selected-text
+page08,No,Coincidencia fortuita,Yes,https://iulianmarcu.me/blog/upskill-react-codebase-quality
+page08,No,Múltiples menciones de 'angularjs' o 'angular js',Yes,https://www.scrums.com/top-56-software-development-tools-in-the-uk
+page08,No,Coincidencia fortuita,Yes,https://www.researchgate.net/figure/Current-Architecture-Design-of-Ride-Sharing_fig2_360827817
+page08,No,FORBIDDEN DOMAIN Red Social www.youtube.com,Yes,https://www.youtube.com/watch?v=T1OBSIRqlCU
+page08,No,Coincidencia fortuita,Yes,https://www.dsebastien.net/all-articles/
+page08,No,Búsqueda incompleta: angular - Foro,Yes,https://news.ycombinator.com/item?id=42245442
+page08,No,Búsqueda incompleta: angular,Yes,https://www.javacodegeeks.com/2024/02/java-code-smells-a-clean-code-quest.html
+page09,No,Búsqueda incompleta: ambas,Yes,https://dl.acm.org/doi/10.1145/3607186
+page09,No,Coincidencia fortuita,Yes,https://radixweb.com/blog/most-essential-dot-net-development-tools
+page09,No,Coincidencia fortuita,Yes,https://frontendmasters.com/blog/fine-grained-reactivity-in-svelte-5/
+page09,No,Coincidencia fortuita,Yes,https://intellisoft.io/15-famous-sites-built-with-django-that-you-probably-know/
+page09,No,FORBIDDEN DOMAIN Red Social www.facebook.com,Yes,https://www.facebook.com/thepracticaldev/?locale=tr_TR
+page09,No,Coincidencia fortuita,Yes,https://ijsra.net/sites/default/files/IJSRA-2023-0815.pdf
+page09,No,Coincidencia fortuita,Yes,https://www.bytestechnolab.com/hire/adobe-commerce-developers/
+page09,No,Tipo no permitido: desconocido,Yes,https://supportcenter.devexpress.com/ticket/details/t1185225/best-way-to-bind-collection-to-a-combobox-edit
+page09,No,Búsqueda incompleta: code smell,Yes,https://www.g2.com/products/kiuwan-code-security-insights/reviews
+page09,No,Búsqueda incompleta: ambas,Yes,https://codeninjaconsulting.com/blog/dot-net-development-tools
+page10,No,Búsqueda incompleta: ambas,Yes,https://www.showwcase.com/article/45659/why-polymarket-is-a-game-changer-and-how-you-can-create-your-own
+page10,No,Búsqueda incompleta: angular,Yes,https://dokumen.pub/mastering-c-programming-9781786461629.html
+page10,No,Búsqueda incompleta: angular,Yes,https://buttercms.com/blog/5-things-your-team-should-do-to-make-pull-requests-less-painful/
+page10,No,FORBIDDEN DOMAIN Foro o chat www.quora.com,Yes,https://www.quora.com/I-was-told-that-unit-testing-is-mandatory-and-smoke-testing-is-optional-and-Im-not-convinced-I-think-that-both-tests-are-of-equal-importance-or-smoke-test-is-more-important-Can-you-tell-me-your-idea
+page10,No,Coincidencia fortuita,Yes,https://airhacks.fm/
+page10,No,Coincidencia fortuita,Yes,https://www.cypress.io/events
+page10,No,Búsqueda incompleta: ambas,Yes,https://www.javaskool.com/error-spawn-npx-enoentat-childprocess-_handle-onexit-nodeinternal-child_process28519/
+page10,No,Coincidencia fortuita,Yes,https://www.packtpub.com/en-pl/product/architecting-aspnet-core-applications-9781805123385?type=print
+page10,No,FORBIDDEN DOMAIN Red Social www.instagram.com,Yes,https://www.instagram.com/essentialdeveloper/?locale=ru&hl=am-et
+page10,No,FORBIDDEN DOMAIN Red Social twitter.com,Yes,https://twitter.com/grathium_i/with_replies
+page11,No,FORBIDDEN DOMAIN Red Social www.tiktok.com,Yes,https://www.tiktok.com/@codewkarim/video/7446870918707629317
+page11,No,FORBIDDEN DOMAIN Red Social www.instagram.com,Yes,https://www.instagram.com/bugnito.tech/reel/C0liV84iGji/
+page11,No,Coincidencia fortuita,Yes,https://thecodeblogger.com/2023/09/21/how-to-setup-sonarqube-instance-locally/
+page11,No,FORBIDDEN DOMAIN Red Social www.youtube.com,Yes,https://www.youtube.com/watch?v=Z3h6T8-iQxk
+page11,No,FORBIDDEN DOMAIN Red Social www.tiktok.com,Yes,https://www.tiktok.com/@thedevlife/video/7239538216703888683
+page11,No,FORBIDDEN DOMAIN Red Social www.youtube.com,Yes,https://www.youtube.com/watch?v=1EmsXC8371g
+page11,No,FORBIDDEN DOMAIN Red Social www.tiktok.com,Yes,https://www.tiktok.com/@thedevlife/video/7391166801784196395
+page11,No,FORBIDDEN DOMAIN Red Social www.tiktok.com,Yes,https://www.tiktok.com/@techelshad/video/7362134235475463457
+page11,No,Coincidencia fortuita,Yes,https://devpedia.dev/
+page11,No,Coincidencia fortuita,Yes,https://builderhub.ai/
