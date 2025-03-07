@@ -1,0 +1,24 @@
+{
+	"allowed-mime-types": ["text/html", "application/pdf"],
+	"forbidden-domains": {
+		"Foro o chat": [
+			"reddit.com",
+			"stackoverflow.com",
+			"quora.com",
+			"discord.com",
+			"telegram.org"
+		],
+		"Red Social": [
+			"facebook.com",
+			"twitter.com",
+			"linkedin.com",
+			"instagram.com",
+			"tiktok.com",
+			"youtube.com"
+		]
+	},
+	"multiples-mentions": {
+		"regex": "angular\\d*js",
+		"limit": 2
+	}
+}
