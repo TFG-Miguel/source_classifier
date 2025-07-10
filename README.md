@@ -1,3 +1,6 @@
+> [!warning]
+> This repository is pending removal. To be included in [code_smell_catalog repository](https://github.com/TFG-Miguel/code_smell_catalog)
+
 # URL Verification Tool
 
 ## Overview
